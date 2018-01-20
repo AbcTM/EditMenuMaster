@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E262AC972013783500BA2342 /* CustonListenEventTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E262AC962013783500BA2342 /* CustonListenEventTextView.swift */; };
 		E2E56F1320136660009F6BBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E56F1220136660009F6BBE /* AppDelegate.swift */; };
 		E2E56F1520136660009F6BBE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2E56F1420136660009F6BBE /* ViewController.swift */; };
 		E2E56F1820136660009F6BBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2E56F1620136660009F6BBE /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E262AC962013783500BA2342 /* CustonListenEventTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustonListenEventTextView.swift; sourceTree = "<group>"; };
 		E2E56F0F20136660009F6BBE /* EditMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EditMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2E56F1220136660009F6BBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2E56F1420136660009F6BBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				E2E56F1220136660009F6BBE /* AppDelegate.swift */,
 				E2E56F1420136660009F6BBE /* ViewController.swift */,
+				E262AC962013783500BA2342 /* CustonListenEventTextView.swift */,
 				E2E56F1620136660009F6BBE /* Main.storyboard */,
 				E2E56F1920136660009F6BBE /* Assets.xcassets */,
 				E2E56F1B20136660009F6BBE /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				E2E56F1520136660009F6BBE /* ViewController.swift in Sources */,
 				E2E56F1320136660009F6BBE /* AppDelegate.swift in Sources */,
+				E262AC972013783500BA2342 /* CustonListenEventTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
